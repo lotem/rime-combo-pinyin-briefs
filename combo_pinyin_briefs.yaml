@@ -218,6 +218,7 @@ briefs:
     - xform/^ZHUN$/zhong'wen'/  # 中文
     - xform/^ZFIAO$/zhong'yao'/  # 重要
     - xform/^ZFVN$/zhong'zhou'yun'/  # 中州韻
+    - xform/^ZFUAO$/zhu'yao'/  # 主要
     - xform/^ZFV$/zhu'yi'/  # 主義
     - xform/^ZKVE$/zhun'que'/  # 準確
     - xform/^ZGI$/zi'ji'/  # 自己
