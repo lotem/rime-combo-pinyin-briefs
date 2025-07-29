@@ -11,6 +11,7 @@ briefs:
     - xform/^BUR$/bu'dui'/  # 不對
     - xform/^HBAO$/bu'hao'/  # 不好
     - xform/^HBUR$/bu'hui'/  # 不會
+    - xform/^HBNE$/bu'ke'neng'/  # 不可能
     - xform/^BUNE$/bu'neng'/  # 不能
     - xform/^BIANE$/bu'rang'/  # 不讓
     - xform/^SB$/bu'shi'/  # 不是
@@ -86,6 +87,7 @@ briefs:
     - xform/^FKA$/kai'fa'/  # 開發
     - xform/^LKV$/kao'lv'/  # 考慮
     - xform/^HKU$/ke'hu'/  # 可乎、客戶
+    - xform/^HKNE$/ke'neng'/  # 可能
     - xform/^SK$/ke'shi'/  # 可是
     - xform/^HKVE$/ke'xue'/  # 科學
     - xform/^KR$/ke'yi'/  # 可以
