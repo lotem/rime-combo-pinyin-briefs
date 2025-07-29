@@ -125,11 +125,12 @@ briefs:
     - xform/^CLDUAN$/qian'wan'/  # 千萬
     - xform/^CUARO$/qing'kuang'/  # 情況
     - xform/^KVNE$/qun'zhong'/  # 羣衆
-    - xform/^HGO$/ran'hou'/  # 然後
+    - xform/^HGARO$/ran'hou'/  # 然後
     - xform/^HGIA$/ren'jia'/  # 人家
     - xform/^HGIN$/ren'min'/  # 人民
     - xform/^HGIAN$/reng'ran'/  # 仍然
     - xform/^HGARE$/Rime /  # Rime
+    - xform/^HGO$/ru'guo'/  # 如果
     - xform/^HGUE$/ru'he'/  # 如何
     - xform/^HGVAN$/ruan'jian'/  # 軟件
     - xform/^SGI$/she'ji'/  # 設計、涉及
