@@ -1,6 +1,6 @@
 # 宮保拼音縮略碼
+patch: { chord_composer/algebra/+: { __include: briefs } }
 briefs:
-  algebra/+:
     - xform/^ZFBAR$/bai'fen'zhi'/  # 百分之
     - xform/^BUA$/ban'fa'/  # 辦法
     - xform/^SBV$/bi'xu'/  # 必須
