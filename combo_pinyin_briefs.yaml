@@ -39,6 +39,7 @@ briefs:
     - xform/^DARO$/dai'biao'/  # 代表
     - xform/^DUA$/dai'ma'/  # 代碼
     - xform/^SDAN$/dan'shi'/  # 但是
+    - xform/^DUAR$/dan'wei'/  # 單位
     - xform/^DVAN$/dan'yuan'/  # 單元
     - xform/^DIANE$/di'fang'/  # 地方
     - xform/^DIRO$/dong'xi'/  # 東西
@@ -46,6 +47,7 @@ briefs:
     - xform/^DV$/du'li'/  # 獨立
     - xform/^SDAO$/duo'shao'/  # 多少
     - xform/^CIRE$/er'qie'/  # 而且
+    - xform/^FIAN$/fa'zhan'/  # 發展
     - xform/^HBIAN$/fang'bian'/  # 方便
     - xform/^FUARO$/fang'fa'/  # 方法
     - xform/^ZFBIAN$/fang'mian'/  # 方面
@@ -76,6 +78,8 @@ briefs:
     - xform/^HAE$/hao'de'/  # 好的
     - xform/^HUAO$/hao'wu'/  # 毫無
     - xform/^HANO$/hen'hao'/  # 很好
+    - xform/^SHGUAN$/huan'jing'/  # 環境
+    - xform/^HDURO$/huo'dong'/  # 活動
     - xform/^HUE$/huo'zhe'/  # 或者
     - xform/^GIO$/ji'ge'/  # 幾個
     - xform/^HGVA$/ji'hua'/  # 計劃
@@ -87,6 +91,7 @@ briefs:
     - xform/^HGIE$/jie'he'/  # 結合
     - xform/^GIARE$/jie'jue'/  # 解決
     - xform/^SHGIE$/jie'shi'/  # 解釋
+    - xform/^ZHINE$/jin'xing'/  # 進行
     - xform/^CLGIANE$/jing'chang'/  # 經常
     - xform/^GINO$/jing'guo'/  # 經過
     - xform/^ZGVE$/ju'jue'/  # 拒絕
@@ -107,6 +112,7 @@ briefs:
     - xform/^LIARE$/li'hai'/  # 厲害
     - xform/^LGIE$/li'jie'/  # 理解
     - xform/^SLIANE$/li'xiang'/  # 理想
+    - xform/^LGIAR$/liao'jie'/  # 瞭解
     - xform/^FBUAN$/ma'fan'/  # 麻煩
     - xform/^ZFBUA$/mei'fa'/  # 沒法
     - xform/^ZFBR$/mei'shi'/  # 沒事
@@ -141,6 +147,7 @@ briefs:
     - xform/^HGO$/ru'guo'/  # 如果
     - xform/^HGUE$/ru'he'/  # 如何
     - xform/^HGVAN$/ruan'jian'/  # 軟件
+    - xform/^SHURE$/she'hui'/  # 社會
     - xform/^SGI$/she'ji'/  # 設計、涉及
     - xform/^SHG$/shen'me'/  # 什麼
     - xform/^SHGUARO$/shen'me'qing'kuang'/  # 什麼情況
@@ -172,9 +179,12 @@ briefs:
     - xform/^LTUN$/tao'lun'/  # 討論
     - xform/^TVE$/te'bie'/  # 特別
     - xform/^TIRO$/ti'gong'/  # 提供
+    - xform/^TIANO$/tiao'jian'/  # 條件
     - xform/^TUNE$/tong'guo'/  # 通過
+    - xform/^STURO$/tong'shi'/  # 同時
     - xform/^TVNE$/tong'xue'/  # 同學
     - xform/^TR$/tong'zhi'/  # 同志
+    - xform/^CHVAN$/wan'quan'/  # 完全
     - xform/^URE$/wei'le'/  # 爲了
     - xform/^FBUR$/wei'shen'me'/  # 爲什麼
     - xform/^TVN$/wen'ti'/  # 問題
@@ -228,7 +238,7 @@ briefs:
     - xform/^ZHRO$/zhi'hou'/  # 之後
     - xform/^ZHGIAN$/zhi'jian'/  # 之間
     - xform/^ZHR$/zhi'shi'/  # 只是、知識
-    - xform/^ZHINE$/zhi'xing'/  # 執行
+    - xform/^ZFINE$/zhi'xing'/  # 執行
     - xform/^ZFIO$/zhi'yao'/  # 只要
     - xform/^ZFIR$/zhi'you'/  # 只有
     - xform/^ZGO$/zhong'guo'/  # 中國
