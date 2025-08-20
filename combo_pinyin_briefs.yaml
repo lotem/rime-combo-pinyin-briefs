@@ -169,7 +169,7 @@ briefs:
     - xform/^SHGU$/shu'ru'/  # 輸入
     - xform/^SHGUA$/shu'ru'fa'/  # 輸入法
     - xform/^SKAO$/si'kao'/  # 思考
-    - xform/^SIARO$/si'xiang'/  # 思想
+    - xform/^SHIANE$/si'xiang'/  # 思想
     - xform/^SHGAN$/sui'ran'/  # 雖然
     - xform/^SURE$/suo'wei'/  # 所謂
     - xform/^SO$/suo'yi'/  # 所以
