@@ -109,7 +109,7 @@ briefs:
     - xform/^HKUAN$/kun'nan'/  # 困難
     - xform/^LDUARO$/lao'dong'/  # 勞動
     - xform/^LARO$/lao'shi'/  # 老師
-    - xform/^LIARE$/li'hai'/  # 厲害
+    - xform/^LIAR$/li'hai'/  # 厲害
     - xform/^LGIE$/li'jie'/  # 理解
     - xform/^SLIANE$/li'xiang'/  # 理想
     - xform/^LGIAR$/liao'jie'/  # 瞭解
