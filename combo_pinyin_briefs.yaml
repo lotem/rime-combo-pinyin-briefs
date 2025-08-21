@@ -136,7 +136,7 @@ briefs:
     - xform/^KIAR$/qi'lai'/  # 起來
     - xform/^SHKI$/qi'shi'/  # 其實
     - xform/^KIAE$/qi'ta'/  # 其他
-    - xform/^CLDUAN$/qian'wan'/  # 千萬
+    - xform/^CHUAN$/qian'wan'/  # 千萬
     - xform/^CUARO$/qing'kuang'/  # 情況
     - xform/^KVNE$/qun'zhong'/  # 羣衆
     - xform/^HGARO$/ran'hou'/  # 然後
