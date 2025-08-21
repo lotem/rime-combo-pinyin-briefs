@@ -249,6 +249,7 @@ briefs:
     - xform/^ZFVN$/zhong'zhou'yun'/  # 中州韻
     - xform/^ZFUAO$/zhu'yao'/  # 主要
     - xform/^ZFV$/zhu'yi'/  # 主義
+    - xform/^ZHUAN$/zhuan'huan'/  # 轉換
     - xform/^ZBUR$/zhun'bei'/  # 準備
     - xform/^ZKVE$/zhun'que'/  # 準確
     - xform/^ZGI$/zi'ji'/  # 自己
