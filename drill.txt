@@ -1,0 +1,206 @@
+CIE=<qie> yin fa
+fu hao FAO=<fu hao> FAO=<fu hao>
+ren jia HGIA=<ren jia> HGIA=<ren jia>
+qi lai KIAR=<qi lai> KIAR=<qi lai>
+li hai LIAR=<li hai> LIAR=<li hai>
+CINE=<qing> kuang CUARO=<qing kuang> CUARO=<qing kuang>
+zhe yang ZFIANE=<zhe yang> ZFIANE=<zhe yang>
+
+shuang sheng die yun lüe fa
+gan jue GÜAE=<gan jue> GÜAE=<gan jue>
+guo jia GUAE=<guo jia> GUAE=<guo jia>
+jie jue GIARE=<jie jue> GIARE=<jie jue>
+SIE=<xie> SIE=<xie> SHIE=<xie xie> SHIE=<xie xie>
+xi huan SHÜAN=<xi huan> SHÜAN=<xi huan>
+na li CLDI=<na li> CLDI=<na li>
+
+za hui lüe fa
+zi ji ZGI=<zi ji> ZGI=<zi ji>
+can jia CGIA=<can jia> CGIA=<can jia>
+lao dong LDUARO=<lao dong> LDUARO=<lao dong>
+jie he HGIE=<jie he> HGIE=<jie he>
+xian zai ZHAR=<xian zai> ZHAR=<xian zai>
+bi SÜ=<xu> SBÜ=<bi xu> SBÜ=<bi xu>
+li SIANE=<xiang> SLIANE=<li xiang> SLIANE=<li xiang>
+she hui SHURE=<she hui> SHURE=<she hui>
+dan shi SDAN=<dan shi> SDAN=<dan shi>
+kai shi SKAR=<kai shi> SKAR=<kai shi>
+shi jie SGIE=<shi jie> SGIE=<shi jie>
+shi jian SGIAN=<shi jian> SGIAN=<shi jian>
+chu xian CHIAN=<chu xian> CHIAN=<chu xian>
+bai fen zhi ZFBAR=<bai fen zhi> ZFBAR=<bai fen zhi>
+fei chang FIANE=<fei chang> FIANE=<fei chang>
+xue SI=<xi> SHÜE=<xue xi> SHÜE=<xue xi>
+suo you SHIR=<suo you> SHIR=<suo you>
+SÜ=<xu> yao SIO=<xu yao> SIO=<xu yao>
+zhi dao ZFO=<zhi dao> ZFO=<zhi dao>
+shi hou SHO=<shi hou> SHO=<shi hou>
+zhong guo ZGO=<zhong guo> ZGO=<zhong guo>
+zhong guo ren ZGN=<zhong guo ren> ZGN=<zhong guo ren>
+wo men NO=<wo men> NO=<wo men>
+jing guo GINO=<jing guo> GINO=<jing guo>
+zhe ge ZO=<zhe ge> ZO=<zhe ge>
+yi ge ÜO=<yi ge> ÜO=<yi ge>
+ji ge GIO=<ji ge> GIO=<ji ge>
+
+rong he jie yin
+ji shu SHGÜ=<ji shu> SHGÜ=<ji shu>
+ruan jian HGÜAN=<ruan jian> HGÜAN=<ruan jian>
+ti gong TIRO=<ti gong> TIRO=<ti gong>
+wen ti TÜN=<wen ti> TÜN=<wen ti>
+zhu yi ZFÜ=<zhu yi> ZFÜ=<zhu yi>
+ru guo HGO=<ru guo> HGO=<ru guo>
+yi ge ÜO=<yi ge> ÜO=<yi ge>
+
+jie yin lüe dai sheng mu
+ban fa BUA=<ban fa> BUA=<ban fa>
+dai ma DUA=<dai ma> DUA=<dai ma>
+ma fan FBUAN=<ma fan> FBUAN=<ma fan>
+fang xiang HUANE=<fang xiang> HUANE=<fang xiang>
+fang fa FUARO=<fang fa> FUARO=<fang fa>
+fa zhan FIAN=<fa zhan> FIAN=<fa zhan>
+reng ran HGIAN=<reng ran> HGIAN=<reng ran>
+te bie TÜE=<te bie> TÜE=<te bie>
+
+bian xing lüe fa
+zhe shi ZR=<zhe shi> ZR=<zhe shi>
+lao shi LARO=<lao shi> LARO=<lao shi>
+gong si SGR=<gong si> SGR=<gong si>
+sheng chan CHAN=<sheng chan> CHAN=<sheng chan>
+chu lai CHUAR=<chu lai> CHUAR=<chu lai>
+zhan shi ZHAN=<zhan shi> ZHAN=<zhan shi>
+zhong wen ZHUN=<zhong wen> ZHUN=<zhong wen>
+zhi shi ZHR=<zhi shi> ZHR=<zhi shi>
+suo wei SURE=<suo wei> SURE=<suo wei>
+yi xia HIAE=<yi xia> HIAE=<yi xia>
+ÜNE=<yong> yuan ÜANE=<yong yuan> ÜANE=<yong yuan>
+
+jing SIANE=<xiang> ZIE=jie jian fa
+jian pan HPAN=<jian pan> HPAN=<jian pan>
+yan jiu HGIR=<yan jiu> HGIR=<yan jiu>
+kun nan HKUAN=<kun nan> HKUAN=<kun nan>
+wan CÜAN=<quan> CHÜAN=<wan quan> CHÜAN=<wan quan>
+yin qing HGINE=<yin qing> HGINE=<yin qing>
+yin wei LDUR=<yin wei> LDUR=<yin wei>
+ying gai SHGAR=<ying gai> SHGAR=<ying gai>
+huan jing SHGUAN=<huan jing> SHGUAN=<huan jing>
+
+yin SÜ=<xu> jian pin fa
+ke shi SK=<ke shi> SK=<ke shi>
+bu shi SB=<bu shi> SB=<bu shi>
+shi bu shi SHB=<shi bu shi> SHB=<shi bu shi>
+shen me SHG=<shen me> SHG=<shen me>
+SHG=<shen me> ren SHGIN=<shen me ren> SHGIN=<shen me ren>
+SHG=<shen me> shi SHGR=<shen me shi> SHGR=<shen me shi>
+SHG=<shen me> SHO=<shi hou> SHGO=<shen me shi hou> SHGO=<shen me shi hou>
+SHG=<shen me> yi si SHGIR=<shen me yi si> SHGIR=<shen me yi si>
+SHG=<shen me> CUARO=<qing kuang> SHGUARO=<shen me qing kuang> SHGUARO=<shen me qing kuang>
+mei you ZFB=<mei you> ZFB=<mei you>
+you mei you ZFBIR=<you mei you> ZFBIR=<you mei you>
+ke yi KR=<ke yi> KR=<ke yi>
+yue lai yue CLDÜE=<yue lai yue> CLDÜE=<yue lai yue>
+
+//
+
+切音法
+符號[符號][符號]
+人家[人家][人家]
+起來[起來][起來]
+厲害[厲害][厲害]
+情況[情況][情況]
+這樣[這樣][這樣]
+
+雙聲疊韻略法
+感覺[感覺][感覺]
+國家[國家][國家]
+解決[解決][解決]
+謝謝[謝謝][謝謝]
+喜歡[喜歡][喜歡]
+哪裏[哪裏][哪裏]
+
+雜燴略法
+
+自己[自己][自己]
+參加[參加][參加]
+勞動[勞動][勞動]
+結合[結合][結合]
+現在[現在][現在]
+必須[必須][必須]
+理想[理想][理想]
+社會[社會][社會]
+但是[但是][但是]
+開始[開始][開始]
+世界[世界][世界]
+時間[時間][時間]
+出現[出現][出現]
+百分之[百分之][百分之]
+非常[非常][非常]
+學習[學習][學習]
+所有[所有][所有]
+需要[需要][需要]
+知道[知道][知道]
+時候[時候][時候]
+中國[中國][中國]
+中國人[中國人][中國人]
+我們[我們][我們]
+經過[經過][經過]
+這個[這個][這個]
+一個[一個][一個]
+幾個[幾個][幾個]
+
+融合介音
+技術[技術][技術]
+軟件[軟件][軟件]
+提供[提供][提供]
+問題[問題][問題]
+主義[主義][主義]
+如果[如果][如果]
+一個[一個][一個]
+
+介音略代聲母
+辦法[辦法][辦法]
+代碼[代碼][代碼]
+麻煩[麻煩][麻煩]
+方向[方向][方向]
+方法[方法][方法]
+發展[發展][發展]
+仍然[仍然][仍然]
+特別[特別][特別]
+
+變形略法
+這是[這是][這是]
+老師[老師][老師]
+公司[公司][公司]
+生產[生產][生產]
+出來[出來][出來]
+戰士[戰士][展示]
+中文[中文][中文]
+只是[只是][知識]
+所謂[所謂][所謂]
+一下[一下][一下]
+永遠[永遠][永遠]
+
+鏡像借鍵法
+鍵盤[鍵盤][鍵盤]
+研究[研究][研究]
+困難[困難][困難]
+完全[完全][完全]
+引擎[引擎][引擎]
+因爲[因爲][因爲]
+應該[應該][應該]
+環境[環境][環境]
+
+音序簡拼法
+可是[可是][可是]
+不是[不是][不是]
+是不是[是不是][是不是]
+什麼[什麼][什麼]
+[什麼]人[什麼人][什麼人]
+[什麼]事[什麼事][什麼事]
+[什麼][時候][什麼時候][什麼時候]
+[什麼]意思[什麼意思][什麼意思]
+[什麼][情況][什麼情況][什麼情況]
+沒有[沒有][沒有]
+有沒有[有沒有][有沒有]
+可以[可以][可以]
+越來越[越來越][越來越]
