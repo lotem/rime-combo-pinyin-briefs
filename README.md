@@ -10,7 +10,6 @@ Rime [宮保拼音](https://github.com/rime/rime-combo-pinyin) 縮略碼
 
 *並擊* （chord-typing）是指：同時按下鍵盤上的多個按鍵。
 
-
 ### 學習資料
 
   - [宮保拼音教程](https://github.com/rime/home/wiki/ComboPinyin)
@@ -23,7 +22,6 @@ Rime [宮保拼音](https://github.com/rime/rime-combo-pinyin) 縮略碼
 
 [東風破](https://github.com/rime/plum) 安裝口令： `bash rime-install combo-pinyin lotem/rime-combo-pinyin-briefs`
 
-
 ### 縮略碼
 
 七指禪佈局可支持用戶自定義的縮略碼，利用閒置的並擊組合快速輸入常用詞。
@@ -32,6 +30,10 @@ Rime [宮保拼音](https://github.com/rime/rime-combo-pinyin) 縮略碼
 可將詞語中標誌性的語音信息壓縮在一次並擊的編碼中以方便記憶，但不得與已有並擊碼衝突。
 
 [℞ `lotem/rime-combo-pinyin-briefs`](https://github.com/lotem/rime-combo-pinyin-briefs) 可作參考。
+
+#### 講解視頻
+
+  - [囧氏自酿「宫保拼音」缩略码——编码原则和略法](https://www.bilibili.com/video/BV18mepzEEPQ/)
 
 #### 筆者制定縮略碼的原則
 
