@@ -145,6 +145,7 @@ briefs:
     - xform/^CVO$/quan'guo'/  # 全國
     - xform/^KVNE$/qun'zhong'/  # 羣衆
     - xform/^HGARO$/ran'hou'/  # 然後
+    - xform/^SHGE$/ren'he'/  # 任何
     - xform/^HGIA$/ren'jia'/  # 人家
     - xform/^HGIN$/ren'min'/  # 人民
     - xform/^HGIAN$/reng'ran'/  # 仍然
