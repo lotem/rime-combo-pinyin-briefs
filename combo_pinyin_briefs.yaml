@@ -8,6 +8,7 @@ briefs:
     - xform/^HBUA$/bian'hua'/  # 變化
     - xform/^BIA$/biao'da'/  # 表達
     - xform/^SHBIA$/biao'da'shi'/  # 表達式
+    - xform/^HBIAO$/biao'xian'/  # 表現
     - xform/^BUN$/biao'zhun'/  # 標準
     - xform/^BUE$/bu'de'/  # 不得
     - xform/^BUAN$/bu'duan'/  # 不斷
