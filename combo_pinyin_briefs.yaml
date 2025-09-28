@@ -91,6 +91,7 @@ briefs:
     - xform/^HGIE$/jie'he'/  # 結合
     - xform/^GIARE$/jie'jue'/  # 解決
     - xform/^SHGIE$/jie'shi'/  # 解釋
+    - xform/^HTIAN$/jin'tian'/  # 今天
     - xform/^ZHINE$/jin'xing'/  # 進行
     - xform/^CLGIANE$/jing'chang'/  # 經常
     - xform/^GINO$/jing'guo'/  # 經過
