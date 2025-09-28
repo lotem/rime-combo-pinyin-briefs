@@ -196,7 +196,7 @@ briefs:
     - xform/^SHVAN$/xi'huan'/  # 喜歡
     - xform/^HIARO$/xi'wang'/  # 希望
     - xform/^HIAR$/xia'lai'/  # 下來
-    - xform/^SHIANE$/xian'sheng'/  # 先生
+    - xform/^SHGNE$/xian'sheng'/  # 先生
     - xform/^ZHAR$/xian'zai'/  # 現在
     - xform/^FBIANE$/xiang'mu'/  # 項目
     - xform/^SIANO$/xiang'yao'/  # 想要
