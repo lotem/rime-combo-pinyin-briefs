@@ -10,6 +10,7 @@ briefs:
     - xform/^SHBIA$/biao'da'shi'/  # 表達式
     - xform/^BUN$/biao'zhun'/  # 標準
     - xform/^BUE$/bu'de'/  # 不得
+    - xform/^BUAN$/bu'duan'/  # 不斷
     - xform/^BUR$/bu'dui'/  # 不對
     - xform/^HBAO$/bu'hao'/  # 不好
     - xform/^HBUR$/bu'hui'/  # 不會
