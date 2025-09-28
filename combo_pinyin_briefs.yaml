@@ -126,6 +126,7 @@ briefs:
     - xform/^CLDI$/na'li'/  # 那裏、哪裏
     - xform/^LDAE$/na'me'/  # 那麼
     - xform/^SLDIE$/na'xie'/  # 哪些
+    - xform/^CLDRO$/neng'gou'/  # 能夠
     - xform/^CLDE$/ni'de'/  # 你的
     - xform/^CLDAO$/ni'hao'/  # 你好
     - xform/^CLDN$/ni'men'/  # 你們
