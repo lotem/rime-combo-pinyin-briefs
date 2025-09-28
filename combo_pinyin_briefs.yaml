@@ -142,6 +142,7 @@ briefs:
     - xform/^ZKIRO$/qi'zhong'/  # 其中
     - xform/^CHUAN$/qian'wan'/  # 千萬
     - xform/^CUARO$/qing'kuang'/  # 情況
+    - xform/^CVO$/quan'guo'/  # 全國
     - xform/^KVNE$/qun'zhong'/  # 羣衆
     - xform/^HGARO$/ran'hou'/  # 然後
     - xform/^HGIA$/ren'jia'/  # 人家
