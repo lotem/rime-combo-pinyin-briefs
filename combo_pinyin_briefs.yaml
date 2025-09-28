@@ -97,6 +97,7 @@ briefs:
     - xform/^GINO$/jing'guo'/  # 經過
     - xform/^ZGVE$/ju'jue'/  # 拒絕
     - xform/^SHGIRO$/ju'rong'shi'/  # 居戎氏
+    - xform/^SHGVE$/jue'ding'/  # 決定
     - xform/^ZDUR$/jue'dui'/  # 絕對
     - xform/^FKA$/kai'fa'/  # 開發
     - xform/^SKAR$/kai'shi'/  # 開始
