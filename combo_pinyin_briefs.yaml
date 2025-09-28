@@ -97,6 +97,7 @@ briefs:
     - xform/^ZHINE$/jin'xing'/  # 進行
     - xform/^CLGIANE$/jing'chang'/  # 經常
     - xform/^GINO$/jing'guo'/  # 經過
+    - xform/^ZHG$/jiu'shi'/  # 就是
     - xform/^ZGVE$/ju'jue'/  # 拒絕
     - xform/^SHGIRO$/ju'rong'shi'/  # 居戎氏
     - xform/^SHGVE$/jue'ding'/  # 決定
