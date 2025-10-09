@@ -57,6 +57,7 @@ briefs:
     - xform/^HUANE$/fang'xiang'/  # 方向
     - xform/^FIANE$/fei'chang'/  # 非常
     - xform/^FIAO$/fei'chang'hao'/  # 非常好
+    - xform/^FURO$/fen'zhong'/  # 分鐘
     - xform/^FAO$/fu'hao'/  # 符號
     - xform/^GVAE$/gan'jue'/  # 感覺
     - xform/^SGIAE$/gan'xie'/  # 感謝
@@ -209,6 +210,7 @@ briefs:
     - xform/^ZHAR$/xian'zai'/  # 現在
     - xform/^FBIANE$/xiang'mu'/  # 項目
     - xform/^SIANO$/xiang'yao'/  # 想要
+    - xform/^SIAR$/xiao'shi'/  # 小時
     - xform/^SHIE$/xie'xie'/  # 謝謝
     - xform/^SIO$/xu'yao'/  # 需要
     - xform/^SVAE$/xuan'ze'/  # 選擇
