@@ -76,7 +76,6 @@ briefs:
     - xform/^GUAE$/guo'jia'/  # 國家
     - xform/^LGUAR$/guo'lai'/  # 過來
     - xform/^HARE$/hai'shi'/  # 還是
-    - xform/^SHV$/han'shu'/  # 函數
     - xform/^HAE$/hao'de'/  # 好的
     - xform/^HUAO$/hao'wu'/  # 毫無
     - xform/^HANO$/hen'hao'/  # 很好
@@ -177,6 +176,7 @@ briefs:
     - xform/^SHIRO$/shi'yong'/  # 使用
     - xform/^SHGU$/shu'ru'/  # 輸入
     - xform/^SHGUA$/shu'ru'fa'/  # 輸入法
+    - xform/^SHV$/shu'yu'/  # 屬於
     - xform/^SKAO$/si'kao'/  # 思考
     - xform/^SHIANE$/si'xiang'/  # 思想
     - xform/^SHGAN$/sui'ran'/  # 雖然
