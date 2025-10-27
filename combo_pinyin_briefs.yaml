@@ -121,6 +121,7 @@ briefs:
     - xform/^LIAR$/li'hai'/  # 厲害
     - xform/^LGIE$/li'jie'/  # 理解
     - xform/^SLIANE$/li'xiang'/  # 理想
+    - xform/^LGIANE$/liang'ge'/  # 兩個
     - xform/^LGIAR$/liao'jie'/  # 瞭解
     - xform/^FBUAN$/ma'fan'/  # 麻煩
     - xform/^ZFBUA$/mei'fa'/  # 沒法
@@ -162,6 +163,7 @@ briefs:
     - xform/^HGUE$/ru'he'/  # 如何
     - xform/^HGIAE$/ru'xia'/  # 如下
     - xform/^HGVAN$/ruan'jian'/  # 軟件
+    - xform/^SGAN$/san'ge'/  # 三個
     - xform/^SHURE$/she'hui'/  # 社會
     - xform/^SGI$/she'ji'/  # 設計、涉及
     - xform/^SHG$/shen'me'/  # 什麼
@@ -184,6 +186,7 @@ briefs:
     - xform/^SHGU$/shu'ru'/  # 輸入
     - xform/^SHGUA$/shu'ru'fa'/  # 輸入法
     - xform/^SHV$/shu'yu'/  # 屬於
+    - xform/^SGE$/si'ge'/  # 四個
     - xform/^SKAO$/si'kao'/  # 思考
     - xform/^SHIANE$/si'xiang'/  # 思想
     - xform/^SHGAN$/sui'ran'/  # 雖然
@@ -209,6 +212,7 @@ briefs:
     - xform/^NO$/wo'men'/  # 我們
     - xform/^DNO$/wo'men'de'/  # 我們的
     - xform/^FUA$/wu'fa'/  # 無法
+    - xform/^UE$/wu'ge'/  # 五個
     - xform/^SGUAN$/xi'guan'/  # 習慣
     - xform/^SHVAN$/xi'huan'/  # 喜歡
     - xform/^HIARO$/xi'wang'/  # 希望
