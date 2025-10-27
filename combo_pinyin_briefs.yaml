@@ -10,6 +10,7 @@ briefs:
     - xform/^SHBIA$/biao'da'shi'/  # 表達式
     - xform/^HBIAO$/biao'xian'/  # 表現
     - xform/^BUN$/biao'zhun'/  # 標準
+    - xform/^CLBURO$/bu'chong'/  # 補充
     - xform/^BUE$/bu'de'/  # 不得
     - xform/^BUAN$/bu'duan'/  # 不斷
     - xform/^BUR$/bu'dui'/  # 不對
@@ -19,6 +20,7 @@ briefs:
     - xform/^BUNE$/bu'neng'/  # 不能
     - xform/^BIANE$/bu'rang'/  # 不讓
     - xform/^SB$/bu'shi'/  # 不是
+    - xform/^SHBU$/bu'shu'/  # 部署
     - xform/^HBINE$/bu'xing'/  # 不行
     - xform/^SBIO$/bu'xu'yao'/  # 不需要
     - xform/^BIO$/bu'yao'/  # 不要
@@ -59,9 +61,11 @@ briefs:
     - xform/^FIAO$/fei'chang'hao'/  # 非常好
     - xform/^FURO$/fen'zhong'/  # 分鐘
     - xform/^FAO$/fu'hao'/  # 符號
+    - xform/^SFU$/fu'shu'/  # 附屬
     - xform/^GVAE$/gan'jue'/  # 感覺
     - xform/^SGIAE$/gan'xie'/  # 感謝
     - xform/^GURE$/ge'wei'/  # 各位
+    - xform/^GO$/gei'wo'/  # 給我
     - xform/^SGIN$/geng'xin'/  # 更新
     - xform/^GUNE$/gong'neng'/  # 功能
     - xform/^SGURO$/gong'shi'/  # 公式、共識
@@ -144,6 +148,7 @@ briefs:
     - xform/^KIAE$/qi'ta'/  # 其他
     - xform/^ZKIRO$/qi'zhong'/  # 其中
     - xform/^CHUAN$/qian'wan'/  # 千萬
+    - xform/^HKUA$/qiang'hua'/  # 強化
     - xform/^CUARO$/qing'kuang'/  # 情況
     - xform/^CVO$/quan'guo'/  # 全國
     - xform/^KVNE$/qun'zhong'/  # 羣衆
@@ -155,6 +160,7 @@ briefs:
     - xform/^HGARE$/Rime /  # Rime
     - xform/^HGO$/ru'guo'/  # 如果
     - xform/^HGUE$/ru'he'/  # 如何
+    - xform/^HGIAE$/ru'xia'/  # 如下
     - xform/^HGVAN$/ruan'jian'/  # 軟件
     - xform/^SHURE$/she'hui'/  # 社會
     - xform/^SGI$/she'ji'/  # 設計、涉及
@@ -190,6 +196,7 @@ briefs:
     - xform/^TVE$/te'bie'/  # 特別
     - xform/^TIRO$/ti'gong'/  # 提供
     - xform/^TIANO$/tiao'jian'/  # 條件
+    - xform/^TIARO$/tiao'zheng'/  # 調整
     - xform/^TUNE$/tong'guo'/  # 通過
     - xform/^STURO$/tong'shi'/  # 同時
     - xform/^TVNE$/tong'xue'/  # 同學
@@ -216,6 +223,7 @@ briefs:
     - xform/^SVAE$/xuan'ze'/  # 選擇
     - xform/^SHVE$/xue'xi'/  # 學習
     - xform/^HGIR$/yan'jiu'/  # 研究
+    - xform/^BVAN$/yi'bian'/  # 一邊
     - xform/^DIRE$/yi'dian'er'/  # 一點兒
     - xform/^VO$/yi'ge'/  # 一個
     - xform/^HURE$/yi'hui'er'/  # 一會兒
