@@ -175,6 +175,7 @@ briefs:
     - xform/^SHGIR$/shen'me'yi'si'/  # 什麼意思
     - xform/^CHAN$/sheng'chan'/  # 生產
     - xform/^SHB$/shi'bu'shi'/  # 是不是
+    - xform/^SHR$/shi'er'/  # 十二
     - xform/^SG$/shi'ge'/  # 是個
     - xform/^SHO$/shi'hou'/  # 時候
     - xform/^SGIAN$/shi'jian'/  # 時間
@@ -182,6 +183,7 @@ briefs:
     - xform/^SGIANE$/shi'jie'shang'/  # 世界上
     - xform/^SHINE$/shi'qing'/  # 事情
     - xform/^SHIAN$/shi'xian'/  # 實現
+    - xform/^SHI$/shi'yi'/  # 十一
     - xform/^SHIRO$/shi'yong'/  # 使用
     - xform/^SHGU$/shu'ru'/  # 輸入
     - xform/^SHGUA$/shu'ru'fa'/  # 輸入法
