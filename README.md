@@ -13,7 +13,7 @@ Rime [宮保拼音](https://github.com/rime/rime-combo-pinyin) 縮略碼
 ### 學習資料
 
   - [宮保拼音教程](https://github.com/rime/home/wiki/ComboPinyin)
-  - [宮保拼音鍵位練習](https://lotem.github.io/typewriter/)
+  - [宮保拼音鍵位練習](https://rime.io/typewriter/)
 
   鍵位練習軟件中，有「縮略碼」練習，舉了幾個例子演示縮略碼的用法。
   支持回車輸入自定義的縮略碼，格式爲：宮保並擊碼 `=<` 一組拼音 `>`，例如 `SHGUA=<shu ru fa>`。
