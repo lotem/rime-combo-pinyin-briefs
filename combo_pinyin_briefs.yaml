@@ -51,6 +51,7 @@ briefs:
     - xform/^DV$/dui'yu'/  # 對於
     - xform/^SDAO$/duo'shao'/  # 多少
     - xform/^CIRE$/er'qie'/  # 而且
+    - xform/^FBIANE$/fa'ming'/  # 發明
     - xform/^FIAN$/fa'zhan'/  # 發展
     - xform/^HBIAN$/fang'bian'/  # 方便
     - xform/^FUARO$/fang'fa'/  # 方法
@@ -222,7 +223,7 @@ briefs:
     - xform/^HIAR$/xia'lai'/  # 下來
     - xform/^SHGNE$/xian'sheng'/  # 先生
     - xform/^ZHAR$/xian'zai'/  # 現在
-    - xform/^FBIANE$/xiang'mu'/  # 項目
+    - xform/^FBUARO$/xiang'mu'/  # 項目
     - xform/^SIANO$/xiang'yao'/  # 想要
     - xform/^SIAR$/xiao'shi'/  # 小時
     - xform/^SHIE$/xie'xie'/  # 謝謝
