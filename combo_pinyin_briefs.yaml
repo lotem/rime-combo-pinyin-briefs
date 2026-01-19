@@ -65,6 +65,7 @@ briefs:
     - xform/^SFU$/fu'shu'/  # 附屬
     - xform/^GVAE$/gan'jue'/  # 感覺
     - xform/^SGIAE$/gan'xie'/  # 感謝
+    - xform/^CLGAO$/gao'chao'/  # 高超
     - xform/^GURE$/ge'wei'/  # 各位
     - xform/^GO$/gei'wo'/  # 給我
     - xform/^SGIN$/geng'xin'/  # 更新
@@ -109,6 +110,7 @@ briefs:
     - xform/^ZDUR$/jue'dui'/  # 絕對
     - xform/^FKA$/kai'fa'/  # 開發
     - xform/^SKAR$/kai'shi'/  # 開始
+    - xform/^HKAR$/kai'yuan'/  # 開源
     - xform/^LKV$/kao'lv'/  # 考慮
     - xform/^HKU$/ke'hu'/  # 可乎、客戶
     - xform/^HKNE$/ke'neng'/  # 可能
@@ -156,6 +158,7 @@ briefs:
     - xform/^CVO$/quan'guo'/  # 全國
     - xform/^KVNE$/qun'zhong'/  # 羣衆
     - xform/^HGARO$/ran'hou'/  # 然後
+    - xform/^CHGINE$/re'qing'/  # 熱情
     - xform/^SHGE$/ren'he'/  # 任何
     - xform/^HGIA$/ren'jia'/  # 人家
     - xform/^HGIN$/ren'min'/  # 人民
@@ -208,6 +211,7 @@ briefs:
     - xform/^STURO$/tong'shi'/  # 同時
     - xform/^TVNE$/tong'xue'/  # 同學
     - xform/^TR$/tong'zhi'/  # 同志
+    - xform/^CLTU$/tou'ru'/  # 投入
     - xform/^CHVAN$/wan'quan'/  # 完全
     - xform/^URE$/wei'le'/  # 爲了
     - xform/^FBUR$/wei'shen'me'/  # 爲什麼
