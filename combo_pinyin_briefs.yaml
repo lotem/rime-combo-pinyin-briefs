@@ -3,11 +3,14 @@ patch: { chord_composer/algebra/+: { __include: briefs } }
 briefs:
     - xform/^ZFBAR$/bai'fen'zhi'/  # 百分之
     - xform/^BUA$/ban'fa'/  # 辦法
+    - xform/^GVAO$/bi'jiao'/ # 比較
     - xform/^SBV$/bi'xu'/  # 必須
+    - xform/^BVAO$/bi'yao'/ # 必要
     - xform/^CLBNE$/bian'cheng'/  # 編程
     - xform/^HBUA$/bian'hua'/  # 變化
     - xform/^BIA$/biao'da'/  # 表達
     - xform/^SHBIA$/biao'da'shi'/  # 表達式
+    - xform/^BIAR$/biao'shi'/  # 表示
     - xform/^HBIAO$/biao'xian'/  # 表現
     - xform/^BUN$/biao'zhun'/  # 標準
     - xform/^CLBURO$/bu'chong'/  # 補充
@@ -193,6 +196,7 @@ briefs:
     - xform/^SHGU$/shu'ru'/  # 輸入
     - xform/^SHGUA$/shu'ru'fa'/  # 輸入法
     - xform/^SHV$/shu'yu'/  # 屬於
+    - xform/^SPINE$/shui'ping'/  # 水平
     - xform/^SGE$/si'ge'/  # 四個
     - xform/^SKAO$/si'kao'/  # 思考
     - xform/^SHIANE$/si'xiang'/  # 思想
@@ -212,6 +216,7 @@ briefs:
     - xform/^TVNE$/tong'xue'/  # 同學
     - xform/^TR$/tong'zhi'/  # 同志
     - xform/^CLTU$/tou'ru'/  # 投入
+    - xform/^CHNE$/wan'cheng'/  # 完成
     - xform/^CHVAN$/wan'quan'/  # 完全
     - xform/^URE$/wei'le'/  # 爲了
     - xform/^FBUR$/wei'shen'me'/  # 爲什麼
@@ -239,6 +244,7 @@ briefs:
     - xform/^DIRE$/yi'dian'er'/  # 一點兒
     - xform/^VO$/yi'ge'/  # 一個
     - xform/^HURE$/yi'hui'er'/  # 一會兒
+    - xform/^IRE$/yi'wei'/  # 以爲
     - xform/^HIAE$/yi'xia'/  # 一下
     - xform/^HGINE$/yin'qing'/  # 引擎
     - xform/^LDUR$/yin'wei'/  # 因爲
