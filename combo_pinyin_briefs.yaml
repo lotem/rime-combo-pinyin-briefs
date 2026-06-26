@@ -88,6 +88,7 @@ briefs:
     - xform/^HARE$/hai'shi'/  # 還是
     - xform/^HAE$/hao'de'/  # 好的
     - xform/^HUAO$/hao'wu'/  # 毫無
+    - xform/^SHIANO$/hao'xiang'/  # 好像
     - xform/^HANO$/hen'hao'/  # 很好
     - xform/^SHGUAN$/huan'jing'/  # 環境
     - xform/^HDURO$/huo'dong'/  # 活動
