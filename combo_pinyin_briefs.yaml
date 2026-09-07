@@ -140,10 +140,10 @@ briefs:
     - xform/^ZFB$/mei'you'/  # 沒有
     - xform/^FBURE$/mian'fei'/  # 免費
     - xform/^FBUAR$/ming'bai'/  # 明白
-    - xform/^CLDR$/na'er'/  # 那兒、哪兒
+    - xform/^LDARE$/na'er'/  # 那兒、哪兒
     - xform/^LDO$/na'ge'/  # 那個、哪個
-    - xform/^CLDI$/na'li'/  # 那裏、哪裏
-    - xform/^LDAE$/na'me'/  # 那麼
+    - xform/^LDIA$/na'li'/  # 那裏、哪裏
+    - xform/^LDUE$/na'me'/  # 那麼
     - xform/^SLDIE$/na'xie'/  # 哪些
     - xform/^CLDRO$/neng'gou'/  # 能夠
     - xform/^CLDE$/ni'de'/  # 你的
