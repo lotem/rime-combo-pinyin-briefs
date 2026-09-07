@@ -17,6 +17,7 @@ briefs:
     - xform/^BUE$/bu'de'/  # 不得
     - xform/^BUAN$/bu'duan'/  # 不斷
     - xform/^BUR$/bu'dui'/  # 不對
+    - xform/^BRO$/bu'gou'/  # 不夠
     - xform/^HBAO$/bu'hao'/  # 不好
     - xform/^HBUR$/bu'hui'/  # 不會
     - xform/^HBNE$/bu'ke'neng'/  # 不可能
@@ -103,7 +104,7 @@ briefs:
     - xform/^HPAN$/jian'pan'/  # 鍵盤
     - xform/^HGIE$/jie'he'/  # 結合
     - xform/^GIARE$/jie'jue'/  # 解決
-    - xform/^SHGIE$/jie'shi'/  # 解釋
+    - xform/^SHGIAR$/jie'shi'/  # 解釋
     - xform/^HTIAN$/jin'tian'/  # 今天
     - xform/^ZHINE$/jin'xing'/  # 進行
     - xform/^CLGIANE$/jing'chang'/  # 經常
@@ -122,7 +123,7 @@ briefs:
     - xform/^HKNE$/ke'neng'/  # 可能
     - xform/^SK$/ke'shi'/  # 可是
     - xform/^HKVE$/ke'xue'/  # 科學
-    - xform/^KR$/ke'yi'/  # 可以
+    - xform/^KIO$/ke'yi'/  # 可以
     - xform/^SKU$/kuai'su'/  # 快速
     - xform/^HKUAN$/kun'nan'/  # 困難
     - xform/^LDUARO$/lao'dong'/  # 勞動
@@ -176,7 +177,7 @@ briefs:
     - xform/^HGVAN$/ruan'jian'/  # 軟件
     - xform/^SGAN$/san'ge'/  # 三個
     - xform/^SHURE$/she'hui'/  # 社會
-    - xform/^SGI$/she'ji'/  # 設計、涉及
+    - xform/^SHGIE$/she'ji'/  # 設計、涉及
     - xform/^SHG$/shen'me'/  # 什麼
     - xform/^SHGUARO$/shen'me'qing'kuang'/  # 什麼情況
     - xform/^SHGIN$/shen'me'ren'/  # 什麼人
@@ -257,7 +258,7 @@ briefs:
     - xform/^INO$/ying'yong'/  # 應用
     - xform/^VANE$/yong'yuan'/  # 永遠
     - xform/^ZFBIR$/you'mei'you'/  # 有沒有
-    - xform/^CLDVE$/yue'lai'yue'/  # 越來越
+    - xform/^LVRE$/yue'lai'yue'/  # 越來越
     - xform/^HVNE$/yun'xing'/  # 運行
     - xform/^VNE$/yun'yong'/  # 運用
     - xform/^ZFBN$/zen'me'/  # 怎麼
